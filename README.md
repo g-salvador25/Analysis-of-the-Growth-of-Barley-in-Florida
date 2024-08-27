@@ -1,6 +1,8 @@
+# Analysis of the Growth of Barley in Florida
 We looked into the effectiveness of growing Barley within Florida through looking at yield, seed weight, height, and heading.
 
-Authors: Mallory Tyler, Gabrielle Salvador
+## Authors
+Mallory Tyler, Gabrielle Salvador
 
-Instructions:
+## Instructions
 Unzip the folder, which contains all the data and R files needed to run.
